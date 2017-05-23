@@ -1,4 +1,4 @@
-#ichizoku{width:99%;margin:auto;}
+#clan{width:99%;margin:auto;}
 .ninja {
     width: 180px;
     height: 200px;
@@ -146,17 +146,7 @@
 }
 .ninja .n--body .n--leg:nth-child(4) { margin-left: 0px }
 .ninja .n--body .n--leg:nth-child(5) { margin-left: 10% }
-/* Color the ninja */
-.ninja.red .n--weapon {
-    background: #e74c3c;
-    border-color: #c0392b;
-}
-.ninja.red .n--body:after { background: #e74c3c }
-.ninja.blue .n--weapon {
-    background: #3498db;
-    border-color: #2980b9;
-}
-.ninja.blue .n--body:after { background: #3498db }
+
 .ninja.green .n--weapon {
     background: #2ecc71;
     border-color: #27ae60;
