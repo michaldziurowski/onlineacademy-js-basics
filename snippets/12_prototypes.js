@@ -7,7 +7,8 @@ Ninja.prototype.throw = function(){
 }
 
 var ninja = new Ninja("Yamike");
-ninja.throw();
+
+console.log(ninja);
 
 
 

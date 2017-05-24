@@ -1,0 +1,16 @@
+1. Scope - a place where they all live (variables and functions)
+    - global scope
+    - function scope
+    - no block scope
+    - last declaration wins (no methods overrides)
+2. Hoisting in scope
+    - hoisiting of function assignments
+3. Closure - ability to access scope variables when function is invoked outside of its scope
+4. Objects
+    - object literals
+    - accessing object properties
+    - constructor functions
+5. This - created for scope, binded on call time
+6. Prototypes
+    - inheritance
+
